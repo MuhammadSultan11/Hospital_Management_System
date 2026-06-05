@@ -1,0 +1,5 @@
+Rs.800,Rs.1200,Rs.300,Rs.500
+Rs.1000,Rs.1550,Rs.3000,Rs.5000
+Rs.345,Rs.478,Rs.876,Rs.1456
+Rs225,Rs.700,Rs.350,Rs.520
+comlete body X_ray Rs: 10000,arms ct scan Rs. 2065,neck dr scan Rs. 3888,O- blood bank Rs, 11000

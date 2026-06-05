@@ -1,0 +1,6 @@
+sultan,sultan@gmail.com,computer1,computer1
+asghar,asghar@gmail.com,123456,123456
+imran,imran@gmail.com,abcdef,abcdef
+aysha,aysha@gmail.com,123456,123456
+atta muhammad,hfklffhdjvv@gmail,1234567890,1234567890
+musa,musa@gmai.com,sultan,sultan

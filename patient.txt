@@ -1,0 +1,4 @@
+23,hafiz,Cancer,mail,23,39
+24,Ahmed,Cold,mail,20,27
+31,Dua,Maleriya,Femail,30,20
+11,sajjad Ali,Daibetes,mail,34,49

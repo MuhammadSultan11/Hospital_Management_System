@@ -1,0 +1,5 @@
+33867,Ali,Artho,1-4pm,BDM,33
+33822,ali,physician,5-8pm,MBBS-MS,30
+45673,muhammad mubeen,artho,10-5pm,MBBS,44
+33876,Dost Muhammad sohu,arthopadic,2:00 PM to 6:00 AM,consultant,203
+14098,sultan ali khan,Ent,8-10 am,MBBS,333
